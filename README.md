@@ -252,7 +252,7 @@ Dirilis di bawah lisensi **MIT** — lihat berkas [LICENSE](LICENSE).
 
 Dibuat dengan ❤️ oleh **myrul.dev**
 
-🌐 [www.myrul.dev](https://www.myrul.dev) · 📘 [facebook.com/myruldev](https://web.facebook.com/myruldev)
+🌐 [www.myrul.dev](https://www.myrul.dev) · 📘 [facebook](https://web.facebook.com/myruldev)
 
 ⭐ Kalau bermanfaat, kasih bintang di GitHub ya!
 
