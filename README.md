@@ -238,6 +238,7 @@ Alat ini disediakan **"apa adanya"**. Menonaktifkan aplikasi sistem berisiko men
 perubahan perilaku HP. **Risiko ditanggung pengguna.** Selalu mulai dari kategori `safe`,
 gunakan Mode Simulasi, dan jaga file backup. Penulis tidak bertanggung jawab atas kerusakan
 yang timbul dari penggunaan.
+*   **Gunakan dengan risiko ditanggung sendiri (DWYOR — Do With Your Own Risk).**
 
 ---
 
