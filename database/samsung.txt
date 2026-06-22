@@ -1,0 +1,29 @@
+# ============================================================
+# DATABASE SAMSUNG (One UI)
+# Format: package|nama aplikasi|risk
+# ============================================================
+
+com.samsung.android.bixby.agent|Bixby (asisten)|recommended
+com.samsung.android.bixby.service|Bixby Service|recommended
+com.samsung.android.bixbyvision.framework|Bixby Vision|recommended
+com.samsung.android.app.spage|Samsung Free / Bixby Home|recommended
+com.samsung.android.game.gamehome|Game Launcher|safe
+com.samsung.android.game.gametools|Game Tools|safe
+com.samsung.android.scloud|Samsung Cloud|advanced
+com.samsung.android.app.tips|Samsung Tips|safe
+com.samsung.android.app.notes|Samsung Notes|safe
+com.samsung.android.voc|Samsung Members|safe
+com.samsung.android.kidsinstaller|Samsung Kids Installer|safe
+com.samsung.android.arzone|AR Zone|safe
+com.samsung.android.aremoji|AR Emoji|safe
+com.sec.android.app.sbrowser|Samsung Internet|advanced
+com.sec.android.app.samsungapps|Galaxy Store|advanced
+com.samsung.android.themestore|Galaxy Themes|safe
+com.samsung.android.app.watchmanager|Galaxy Wearable|safe
+com.facebook.katana|Facebook (bawaan Samsung)|recommended
+com.microsoft.skydrive|Microsoft OneDrive|safe
+com.microsoft.office.officehubrow|Microsoft Office|safe
+com.linkedin.android|LinkedIn (bawaan)|safe
+com.netflix.partner.activation|Netflix Activation|safe
+com.samsung.android.bixby.wakeup|Bixby Voice Wake-up|recommended
+com.samsung.android.app.dressroom|Wallpaper & Style|safe

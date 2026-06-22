@@ -1,0 +1,19 @@
+# ============================================================
+# DATABASE NUBIA / RED MAGIC (Nubia UI / Redmagic OS)
+# Format: package|nama aplikasi|risk
+# ============================================================
+
+cn.nubia.gamelauncher|Game Space / Launcher|recommended
+cn.nubia.browser|Nubia Browser|recommended
+cn.nubia.music|Musik Nubia|safe
+cn.nubia.video|Video Nubia|safe
+cn.nubia.weather2|Cuaca|safe
+cn.nubia.calculator2|Kalkulator|safe
+cn.nubia.compass|Kompas|safe
+cn.nubia.soundrecorder|Perekam Suara|safe
+cn.nubia.note|Catatan|safe
+cn.nubia.gallery3d|Galeri|advanced
+cn.nubia.cloud|Nubia Cloud|advanced
+cn.nubia.backup|Backup Nubia|advanced
+cn.nubia.account|Akun Nubia|advanced
+com.facebook.katana|Facebook (bawaan)|recommended

@@ -1,0 +1,23 @@
+# ============================================================
+# DATABASE SONY XPERIA
+# Format: package|nama aplikasi|risk
+# ============================================================
+
+com.sonymobile.support|Support Xperia|safe
+com.sonymobile.android.welcome|Welcome / Xperia Lounge|safe
+com.sonymobile.assist|Xperia Assist|safe
+com.sonymobile.email|Email Sony|safe
+com.sonymobile.calculator|Kalkulator|safe
+com.sonyericsson.organizer|Kalender & Catatan|safe
+com.sonyericsson.notes|Catatan|safe
+com.sony.tvsideview.phone|TV SideView|safe
+com.sonymobile.music|Music Xperia|safe
+com.sonymobile.album|Album Xperia|advanced
+com.sonymobile.movies|Video Xperia|safe
+com.sonymobile.gameenhancer|Game Enhancer|recommended
+com.sonymobile.lifelog|Lifelog|safe
+com.sonymobile.xperialink|Xperia Link|safe
+com.sonymobile.advancedwidget.weather|Widget Cuaca|safe
+com.facebook.katana|Facebook (bawaan)|recommended
+com.amazon.mShop.android.shopping|Amazon Shopping (bawaan)|recommended
+com.netflix.mediaclient|Netflix (bawaan)|safe

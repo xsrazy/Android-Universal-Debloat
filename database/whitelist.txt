@@ -1,0 +1,18 @@
+# ============================================================
+# WHITELIST TAMBAHAN (buatan pengguna)
+# ------------------------------------------------------------
+# Daftar paket DI SINI tidak akan pernah dinonaktifkan oleh
+# script, sebagai pengaman tambahan di luar whitelist bawaan.
+#
+# Cara pakai: tulis satu nama paket per baris. Contoh:
+#   com.whatsapp
+#   com.gojek.app
+#   id.dana
+#
+# Baris diawali '#' akan diabaikan (komentar).
+# ============================================================
+
+# com.whatsapp
+# com.gojek.app
+# id.dana
+# com.shopee.id

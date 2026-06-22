@@ -1,0 +1,16 @@
+# ============================================================
+# DATABASE SHARP (AQUOS)
+# Format: package|nama aplikasi|risk
+# ============================================================
+
+jp.co.sharp.android.weather|Cuaca|safe
+jp.co.sharp.android.calculator|Kalkulator|safe
+jp.co.sharp.android.soundrecorder|Perekam Suara|safe
+jp.co.sharp.android.notepad|Catatan|safe
+jp.co.sharp.android.emopa|Emopa (asisten)|recommended
+jp.co.sharp.android.healthcare|Healthcare|safe
+jp.co.sharp.android.fmradio|Radio FM|safe
+jp.co.sharp.android.gallery|Galeri|advanced
+jp.co.sharp.android.appmarket|App Market|recommended
+jp.co.sharp.android.feedback|Masukan|safe
+com.facebook.katana|Facebook (bawaan)|recommended

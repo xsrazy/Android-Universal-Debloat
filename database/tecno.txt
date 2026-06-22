@@ -1,0 +1,39 @@
+# ============================================================
+# DATABASE TECNO (HiOS)
+# Format: package|nama aplikasi|risk
+# ============================================================
+
+com.transsion.phoenix|Phoenix Browser|recommended
+com.transsnet.store|Palm Store (toko aplikasi)|recommended
+com.transsion.appupdate|App Update Transsion|recommended
+com.afmobi.boomplayer|Boomplay Music|recommended
+com.transsion.videocommunity|Video Community|recommended
+com.rlk.weathers|Cuaca|safe
+com.transsion.calculator|Kalkulator|safe
+com.transsion.compass|Kompas|safe
+com.transsion.soundrecorder|Perekam Suara|safe
+com.transsion.notebook|Catatan|safe
+com.transsion.deskclock|Jam|safe
+com.transsion.aivoiceassistant|Asisten Suara|recommended
+com.transsion.healthlife|Health Life|safe
+com.transsion.magicshow|Magic Wallpaper|recommended
+com.transsion.carlcare|Carlcare (servis)|safe
+com.transsion.kolun.assistant|Smart Panel|recommended
+com.transsion.hilauncher.assistant|Asisten Launcher|recommended
+com.facebook.katana|Facebook (bawaan)|recommended
+com.transsion.gamecenter|Game Center|recommended
+
+# ---- Tambahan umum Transsion (sering ada di Tecno Pova/Spark/Camon) ----
+com.transsion.tysc|App Recommendation (rekomendasi)|recommended
+com.transsion.scanningrubbish|Pembersih Sampah|safe
+com.transsion.applock|App Lock|safe
+com.transsion.smartpanel|Smart Panel|recommended
+com.transsion.minlauncher|Mini Launcher|safe
+com.transsion.theme|Tema|advanced
+com.transsion.weather|Cuaca (alternatif)|safe
+com.transsion.systemupdate|Update Sistem|advanced
+com.transsion.cloud|Transsion Cloud|advanced
+com.afmobi.palmplay|PalmPlay (toko aplikasi)|recommended
+com.transsion.tecnospot|Tecno Spot (komunitas)|recommended
+com.transsion.aha|Aha Games|recommended
+com.transsion.smartdocs|Smart Docs|safe

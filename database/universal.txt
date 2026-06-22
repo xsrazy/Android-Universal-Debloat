@@ -1,0 +1,45 @@
+# ============================================================
+# DATABASE UNIVERSAL - berlaku untuk semua merek HP Android
+# Format: package|nama aplikasi|risk
+# Risk: safe | recommended | advanced | dangerous
+#   safe        = aman dinonaktifkan, hampir tidak ada efek
+#   recommended = umumnya aman dan disarankan dimatikan
+#   advanced    = untuk pengguna paham, bisa ada efek samping
+#   dangerous   = berisiko, jangan dimatikan kecuali sangat paham
+# ============================================================
+
+# ---- Aplikasi bawaan Google (opsional / promosi) ----------
+com.google.android.apps.tachyon|Google Meet (Duo)|recommended
+com.google.android.youtube|YouTube|advanced
+com.google.android.apps.youtube.music|YouTube Music|recommended
+com.google.android.apps.docs|Google Drive|advanced
+com.google.android.apps.photos|Google Photos|advanced
+com.google.android.apps.magazines|Google News|safe
+com.google.android.videos|Google TV / Film|safe
+com.google.android.play.games|Google Play Games|recommended
+com.google.android.apps.books|Google Play Buku|safe
+com.google.android.feedback|Masukan Google|safe
+com.google.android.printservice.recommendation|Saran Layanan Cetak|safe
+com.google.android.apps.wellbeing|Digital Wellbeing|safe
+com.google.android.apps.subscriptions.red|Google One|safe
+com.google.android.apps.googleassistant|Google Assistant|advanced
+com.google.ar.core|ARCore (Google Play untuk AR)|safe
+com.google.android.marvin.talkback|TalkBack (pembaca layar)|advanced
+
+# ---- Browser / layanan tambahan ---------------------------
+com.android.chrome|Google Chrome|advanced
+
+# ---- Facebook / Meta (sering jadi bloatware) --------------
+com.facebook.appmanager|Facebook App Manager|recommended
+com.facebook.services|Facebook Services|recommended
+com.facebook.system|Facebook App Installer|recommended
+com.facebook.katana|Facebook|recommended
+
+# ---- Layanan cetak & lain-lain ----------------------------
+com.android.bips|Layanan Cetak Bawaan|safe
+com.android.wallpaper.livepicker|Wallpaper Bergerak|safe
+com.android.dreams.basic|Screensaver Dasar|safe
+com.android.dreams.phototable|Screensaver Foto|safe
+com.android.bookmarkprovider|Penyedia Bookmark|safe
+com.android.htmlviewer|Penampil HTML|safe
+com.android.egg|Easter Egg Android|safe

@@ -1,0 +1,30 @@
+# ============================================================
+# DATABASE HUAWEI (EMUI / HarmonyOS)
+# Format: package|nama aplikasi|risk
+# CATATAN: hati-hati, sebagian layanan terkait HMS.
+# ============================================================
+
+com.huawei.appmarket|AppGallery|advanced
+com.huawei.hwid|Huawei ID|advanced
+com.huawei.hicloud|Huawei Cloud|advanced
+com.huawei.android.hsf|Huawei Mobile Services|advanced
+com.huawei.gamebox|Game Center|recommended
+com.huawei.intelligent|HiBoard / Asisten|recommended
+com.huawei.tips|Huawei Tips|safe
+com.huawei.phoneservice|Layanan & Dukungan|safe
+com.huawei.health|Huawei Health|safe
+com.huawei.android.totemweather|Cuaca|safe
+com.huawei.music|HUAWEI Music|safe
+com.huawei.himovie.overseas|HUAWEI Video|safe
+com.huawei.browser|HUAWEI Browser|recommended
+com.huawei.notepad|Catatan|safe
+com.huawei.compass|Kompas|safe
+com.huawei.calculator|Kalkulator|safe
+com.huawei.soundrecorder|Perekam Suara|safe
+com.huawei.scanner|Pemindai HiVision|safe
+com.huawei.android.findmyphone|Find My Phone|advanced
+com.huawei.parentcontrol|Parental Control|safe
+com.huawei.fastapp|Fast App Engine|recommended
+com.huawei.hwireader|HUAWEI Reader|safe
+com.facebook.katana|Facebook (bawaan)|recommended
+com.booking|Booking.com (bawaan)|recommended

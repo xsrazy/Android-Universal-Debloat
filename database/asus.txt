@@ -1,0 +1,25 @@
+# ============================================================
+# DATABASE ASUS (ZenUI / ROG)
+# Format: package|nama aplikasi|risk
+# ============================================================
+
+com.asus.gamecenter|Game Center / Armoury Crate|recommended
+com.asus.calculator|Kalkulator|safe
+com.asus.soundrecorder|Perekam Suara|safe
+com.asus.flashlight|Senter|safe
+com.asus.weathertime|Cuaca & Jam|safe
+com.asus.calendar|Kalender ASUS|safe
+com.asus.fmradio|Radio FM|safe
+com.asus.userfeedback|Masukan Pengguna|safe
+com.asus.systemupdate|Update Sistem ASUS|advanced
+com.asus.dm|Device Management|advanced
+com.asus.tutorial|Tutorial|safe
+com.asus.ia.asusapp|ASUS App / DealHub|recommended
+com.asus.mobilemanager|Mobile Manager|advanced
+com.asus.gallery|Galeri ASUS|advanced
+com.asus.email|Email ASUS|safe
+com.asus.filemanager|File Manager|safe
+com.asus.zenlife|ZenLife|recommended
+com.facebook.katana|Facebook (bawaan)|recommended
+com.facebook.appmanager|Facebook App Manager|recommended
+com.facebook.services|Facebook Services|recommended

@@ -1,0 +1,25 @@
+# ============================================================
+# DATABASE MOTOROLA (My UX / hampir stock Android)
+# Format: package|nama aplikasi|risk
+# ============================================================
+
+com.motorola.motocare|Moto Care|safe
+com.motorola.ccc.notification|Notifikasi Moto|safe
+com.motorola.help|Moto Help / Bantuan|safe
+com.motorola.genie|Moto Genie|safe
+com.motorola.android.provisioning|Provisioning Moto|safe
+com.motorola.demo|Mode Demo|safe
+com.motorola.audiomonitor|Moto Audio Monitor|safe
+com.motorola.gamemode|Moto Game Time|safe
+com.motorola.launcher3|Moto Launcher|advanced
+com.motorola.timeweatherwidget|Widget Cuaca|safe
+com.motorola.fmplayer|Radio FM|safe
+com.motorola.moto|Moto (aplikasi fitur)|advanced
+com.motorola.brapps|Marketplace Moto|recommended
+com.motorola.notification|Moto Notifikasi|safe
+com.tmobile.pr.adapt|T-Mobile Adapt (operator)|recommended
+com.facebook.katana|Facebook (bawaan)|recommended
+com.facebook.appmanager|Facebook App Manager|recommended
+com.facebook.services|Facebook Services|recommended
+com.amazon.appmanager|Amazon App Manager|recommended
+com.tmobile.pr.mytmobile|My T-Mobile (operator)|recommended

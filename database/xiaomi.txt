@@ -1,0 +1,30 @@
+# ============================================================
+# DATABASE XIAOMI / REDMI / POCO (MIUI / HyperOS)
+# Format: package|nama aplikasi|risk
+# ============================================================
+
+com.miui.analytics|MIUI Analytics (pelacak)|recommended
+com.miui.msa.global|MSA (mesin iklan MIUI)|recommended
+com.miui.systemAdSolution|Layanan Iklan Sistem|recommended
+com.xiaomi.mipicks|GetApps (toko aplikasi Xiaomi)|recommended
+com.miui.player|Mi Music|safe
+com.miui.video|Mi Video|safe
+com.miui.videoplayer|Mi Video Player|safe
+com.mi.globalbrowser|Mi Browser|recommended
+com.miui.bugreport|Laporan Bug MIUI|safe
+com.miui.cloudbackup|Mi Cloud Backup|advanced
+com.miui.cloudservice|Mi Cloud Service|advanced
+com.miui.daemon|MIUI Daemon|advanced
+com.miui.cleanmaster|Pembersih (Cleaner)|safe
+com.miui.weather2|Cuaca MIUI|safe
+com.miui.notes|Catatan MIUI|safe
+com.miui.compass|Kompas|safe
+com.miui.fm|Radio FM|safe
+com.miui.calculator|Kalkulator MIUI|safe
+com.xiaomi.glgm|Game Center Xiaomi|recommended
+com.xiaomi.payment|Mi Pay|safe
+com.xiaomi.gamecenter.sdk.service|Game Center SDK|safe
+com.android.thememanager|Tema MIUI|advanced
+com.miui.yellowpage|Yellow Pages|safe
+com.miui.touchassistant|Quick Ball|safe
+com.miui.android.fashiongallery|Wallpaper Carousel|recommended

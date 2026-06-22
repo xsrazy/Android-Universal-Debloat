@@ -1,0 +1,25 @@
+# ============================================================
+# DATABASE REALME (realme UI)
+# Format: package|nama aplikasi|risk
+# ============================================================
+
+com.heytap.market|App Market realme|recommended
+com.heytap.browser|realme Browser|recommended
+com.heytap.music|realme Music|safe
+com.coloros.video|Video realme|safe
+com.coloros.gallery3d|Galeri realme|advanced
+com.coloros.weather2|Cuaca|safe
+com.coloros.weather.service|Layanan Cuaca|safe
+com.coloros.calculator|Kalkulator|safe
+com.coloros.compass2|Kompas|safe
+com.coloros.soundrecorder|Perekam Suara|safe
+com.coloros.backuprestore|Backup & Restore|advanced
+com.nearme.gamecenter|Game Center|recommended
+com.nearme.atlas|realme Pay|safe
+com.heytap.cloud|HeyTap Cloud|advanced
+com.realme.movieshot|Movie Shot|safe
+com.realmecomm.app|realme Community|recommended
+com.realme.securitycheck|Pemeriksa Keamanan|safe
+com.coloros.findmyphone|Find My Phone|advanced
+com.facebook.katana|Facebook (bawaan)|recommended
+com.coloros.assistantscreen|Smart Assistant (Shelf)|recommended

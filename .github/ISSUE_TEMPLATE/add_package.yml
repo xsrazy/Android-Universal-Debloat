@@ -1,0 +1,39 @@
+name: "📦 Tambah Paket Database"
+description: "Usulkan paket bloatware baru untuk ditambahkan ke database"
+title: "[DB]: "
+labels: ["database"]
+body:
+  - type: input
+    id: brand
+    attributes:
+      label: Merek HP (file database)
+      placeholder: "mis. xiaomi / samsung / universal"
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Model HP & versi Android
+      placeholder: "mis. Samsung A54, Android 14 (One UI 6)"
+    validations:
+      required: true
+  - type: textarea
+    id: packages
+    attributes:
+      label: Daftar paket (format package|nama aplikasi|risk)
+      description: "Satu paket per baris. Risk: safe / recommended / advanced / dangerous"
+      render: text
+      placeholder: |
+        com.samsung.android.bixby.agent|Bixby (asisten)|recommended
+        com.samsung.android.app.tips|Samsung Tips|safe
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Konfirmasi
+      options:
+        - label: "Bukan paket inti sistem / whitelist"
+          required: true
+        - label: "Sudah saya uji dinonaktifkan tanpa merusak fungsi penting"
+          required: true

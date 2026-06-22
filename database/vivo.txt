@@ -1,0 +1,25 @@
+# ============================================================
+# DATABASE VIVO / IQOO (Funtouch OS / OriginOS)
+# Format: package|nama aplikasi|risk
+# ============================================================
+
+com.vivo.appstore|Vivo App Store|recommended
+com.vivo.browser|Vivo Browser|recommended
+com.android.bbkmusic|i Music|safe
+com.android.VideoPlayer|i Video|safe
+com.vivo.gallery|Galeri Vivo|advanced
+com.vivo.weather|Cuaca Vivo|safe
+com.vivo.weather.provider|Penyedia Cuaca|safe
+com.android.bbklog|BBK Log|safe
+com.vivo.game|Game Center Vivo|recommended
+com.vivo.assistant|Jovi Smart Scene|recommended
+com.vivo.hiboard|Jovi Home|recommended
+com.vivo.agent|Jovi Voice Assistant|recommended
+com.vivo.email|Email Vivo|safe
+com.vivo.compass|Kompas|safe
+com.vivo.note|Catatan|safe
+com.vivo.smartshot|Tangkapan Layar Pintar|safe
+com.bbk.cloud|Vivo Cloud|advanced
+com.bbk.appstore|BBK App Store|recommended
+com.vivo.easyshare|EasyShare|safe
+com.facebook.katana|Facebook (bawaan)|recommended

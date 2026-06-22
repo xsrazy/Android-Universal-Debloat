@@ -1,0 +1,27 @@
+# ============================================================
+# DATABASE HONOR (Magic UI / MagicOS)
+# Format: package|nama aplikasi|risk
+# ============================================================
+
+com.hihonor.appmarket|Honor App Market|recommended
+com.hihonor.android.hsf|Honor Mobile Services|advanced
+com.hihonor.id|Honor ID|advanced
+com.hihonor.cloud|Honor Cloud|advanced
+com.hihonor.gamecenter|Honor Game Center|recommended
+com.hihonor.intelligent|Asisten Hi (YOYO)|recommended
+com.hihonor.tips|Honor Tips|safe
+com.hihonor.phoneservice|Layanan & Servis|safe
+com.hihonor.health|Honor Health|safe
+com.hihonor.scanner|Pemindai Dokumen|safe
+com.hihonor.findmydevice|Find My Device|advanced
+com.huawei.android.totemweather|Cuaca|safe
+com.huawei.music|Musik|safe
+com.huawei.himovie.overseas|HUAWEI Video|safe
+com.huawei.hicloud|Hi Cloud|advanced
+com.huawei.browser|Browser|recommended
+com.huawei.notepad|Catatan|safe
+com.huawei.compass|Kompas|safe
+com.huawei.calculator|Kalkulator|safe
+com.huawei.soundrecorder|Perekam Suara|safe
+com.facebook.katana|Facebook (bawaan)|recommended
+com.booking|Booking.com (bawaan)|recommended

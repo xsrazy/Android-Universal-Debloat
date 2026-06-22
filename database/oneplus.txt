@@ -1,0 +1,25 @@
+# ============================================================
+# DATABASE ONEPLUS (OxygenOS / ColorOS-based)
+# Format: package|nama aplikasi|risk
+# ============================================================
+
+com.oneplus.brickmode|Zen Mode|safe
+com.oneplus.gamespace|Game Space|safe
+com.oneplus.opbackup|OnePlus Backup|advanced
+com.oneplus.soundrecorder|Perekam Suara|safe
+com.oneplus.calculator|Kalkulator|safe
+com.oneplus.note|Catatan|safe
+com.oneplus.compass|Kompas|safe
+com.oneplus.weather|Cuaca|safe
+com.oneplus.deskclock|Jam|safe
+com.heytap.market|App Market|recommended
+com.heytap.browser|Browser|recommended
+com.heytap.music|Music|safe
+com.heytap.cloud|HeyTap Cloud|advanced
+com.nearme.gamecenter|Game Center|recommended
+com.oplus.games|OPlus Games|recommended
+com.coloros.gallery3d|Galeri|advanced
+com.coloros.backuprestore|Backup & Restore|advanced
+com.facebook.katana|Facebook (bawaan)|recommended
+com.netflix.mediaclient|Netflix (bawaan)|safe
+com.oneplus.twspods|OnePlus Buds|safe

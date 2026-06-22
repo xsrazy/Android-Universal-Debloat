@@ -1,0 +1,17 @@
+# ============================================================
+# DATABASE WIKO
+# Format: package|nama aplikasi|risk
+# ============================================================
+
+com.wiko.weatherclock|Cuaca & Jam|safe
+com.wiko.calculator|Kalkulator|safe
+com.wiko.soundrecorder|Perekam Suara|safe
+com.wiko.notepad|Catatan|safe
+com.wiko.compass|Kompas|safe
+com.wiko.fm|Radio FM|safe
+com.wiko.gallery|Galeri|advanced
+com.wiko.appstore|Wiko App Store|recommended
+com.wiko.feedback|Masukan|safe
+com.wiko.systemupdate|Update Sistem|advanced
+com.facebook.katana|Facebook (bawaan)|recommended
+com.facebook.appmanager|Facebook App Manager|recommended

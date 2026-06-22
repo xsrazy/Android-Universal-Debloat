@@ -1,0 +1,19 @@
+# ============================================================
+# DATABASE NOKIA / HMD (Android One - mendekati stock)
+# Format: package|nama aplikasi|risk
+# ============================================================
+
+com.evenwell.fqcservice|FQC Service|safe
+com.hmdglobal.app.mma|My Phone / Support HMD|safe
+com.hmdglobal.support|Dukungan Nokia|safe
+fm.player|Pemutar Radio FM|safe
+com.evenwell.coloros.weather|Cuaca|safe
+com.dolby.daxappui|Dolby Atmos UI|safe
+com.android.soundrecorder|Perekam Suara|safe
+com.hmdglobal.camera2|Kamera Nokia|advanced
+com.hmd.security|HMD Security|safe
+com.hmdglobal.cs.optimizer|Optimizer|safe
+com.facebook.katana|Facebook (bawaan)|recommended
+com.facebook.appmanager|Facebook App Manager|recommended
+com.facebook.services|Facebook Services|recommended
+com.netflix.mediaclient|Netflix (bawaan)|safe

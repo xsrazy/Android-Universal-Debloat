@@ -1,0 +1,19 @@
+# ============================================================
+# DATABASE LENOVO (mendekati stock)
+# Format: package|nama aplikasi|risk
+# ============================================================
+
+com.lenovo.lsf.user|Lenovo Service Framework|advanced
+com.lenovo.lsf|Lenovo ID|advanced
+com.lenovo.browser|Lenovo Browser|recommended
+com.lenovo.weather|Cuaca|safe
+com.lenovo.calculator|Kalkulator|safe
+com.lenovo.soundrecorder|Perekam Suara|safe
+com.lenovo.note|Catatan|safe
+com.lenovo.gamecenter|Game Center|recommended
+com.lenovo.security|Lenovo Security|advanced
+com.lenovo.feedback|Masukan Lenovo|safe
+com.lenovo.appstore|Lenovo App Store|recommended
+com.facebook.katana|Facebook (bawaan)|recommended
+com.facebook.appmanager|Facebook App Manager|recommended
+com.netflix.mediaclient|Netflix (bawaan)|safe

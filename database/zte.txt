@@ -1,0 +1,21 @@
+# ============================================================
+# DATABASE ZTE (MyOS / MiFavor)
+# Format: package|nama aplikasi|risk
+# ============================================================
+
+cn.nubia.gamelauncher|Game Launcher|recommended
+com.zte.appstore|ZTE App Store|recommended
+com.zte.browser|ZTE Browser|recommended
+com.zte.music|Musik ZTE|safe
+com.zte.videoplayer|Pemutar Video|safe
+com.zte.weather|Cuaca|safe
+com.zte.calculator|Kalkulator|safe
+com.zte.compass|Kompas|safe
+com.zte.soundrecorder|Perekam Suara|safe
+com.zte.notebook|Catatan|safe
+com.zte.feedback|Masukan ZTE|safe
+com.zte.cloud|ZTE Cloud|advanced
+com.zte.heartyservice|Hearty Service (manager)|advanced
+com.zte.backup|Backup ZTE|advanced
+com.facebook.katana|Facebook (bawaan)|recommended
+com.facebook.appmanager|Facebook App Manager|recommended

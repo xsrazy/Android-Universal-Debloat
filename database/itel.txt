@@ -1,0 +1,22 @@
+# ============================================================
+# DATABASE ITEL (Transsion - HiOS/itel OS)
+# Format: package|nama aplikasi|risk
+# ============================================================
+
+com.transsnet.store|Palm Store (toko aplikasi)|recommended
+com.transsion.phoenix|Phoenix Browser|recommended
+com.transsion.appupdate|App Update Transsion|recommended
+com.afmobi.boomplayer|Boomplay Music|recommended
+com.transsion.videocommunity|Video Community|recommended
+com.rlk.weathers|Cuaca|safe
+com.transsion.calculator|Kalkulator|safe
+com.transsion.compass|Kompas|safe
+com.transsion.soundrecorder|Perekam Suara|safe
+com.transsion.notebook|Catatan|safe
+com.transsion.deskclock|Jam|safe
+com.transsion.healthlife|Health Life|safe
+com.transsion.magicshow|Magic Wallpaper|recommended
+com.transsion.carlcare|Carlcare (servis)|safe
+com.transsion.aivoiceassistant|Asisten Suara|recommended
+com.transsion.gamecenter|Game Center|recommended
+com.facebook.katana|Facebook (bawaan)|recommended

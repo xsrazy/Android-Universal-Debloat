@@ -1,0 +1,32 @@
+# ===== Android Universal Debloat - .gitignore =====
+
+# Cadangan & log dibuat saat runtime (jangan ikut di-commit)
+backup/*.txt
+logs/*.log
+logs/tak-dikenal-*.txt
+
+# Tetap simpan folder kosong di git
+!backup/.gitkeep
+!logs/.gitkeep
+
+# Whitelist kustom milik pengguna (privasi) - opsional di-ignore
+# Hapus tanda '#' di bawah kalau tidak ingin meng-commit whitelist pribadi
+# database/whitelist.txt
+
+# File sistem / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Arsip
+*.zip
+*.tar.gz
+
+# Sementara
+tmp/
+*.tmp
+*.bak

@@ -1,0 +1,21 @@
+# ============================================================
+# DATABASE LG (LG UX - perangkat lama)
+# Format: package|nama aplikasi|risk
+# ============================================================
+
+com.lge.appbox.client|LG SmartWorld|recommended
+com.lge.email|Email LG|safe
+com.lge.music|Musik LG|safe
+com.lge.gallery.vr|Galeri VR|safe
+com.lge.weather|Cuaca|safe
+com.lge.calculator|Kalkulator|safe
+com.lge.compass|Kompas|safe
+com.lge.qmemoplus|QuickMemo+|safe
+com.lge.sizechangable.weather|Widget Cuaca|safe
+com.lge.bnr|Backup & Restore|advanced
+com.lge.lgaccount|Akun LG|advanced
+com.lge.updatecenter|Update Center|advanced
+com.lge.gametuner|Game Tuner|safe
+com.lge.smartShare|SmartShare|safe
+com.facebook.katana|Facebook (bawaan)|recommended
+com.amazon.mShop.android.shopping|Amazon Shopping (bawaan)|recommended

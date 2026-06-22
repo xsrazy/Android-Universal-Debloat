@@ -1,0 +1,20 @@
+# ============================================================
+# DATABASE MEIZU (Flyme OS)
+# Format: package|nama aplikasi|risk
+# ============================================================
+
+com.meizu.flyme.gamecenter|Game Center|recommended
+com.meizu.media.music|Musik|safe
+com.meizu.media.video|Video|safe
+com.meizu.flyme.weather|Cuaca|safe
+com.meizu.flyme.calculator|Kalkulator|safe
+com.meizu.compass|Kompas|safe
+com.meizu.flyme.soundrecorder|Perekam Suara|safe
+com.meizu.notepaper|Catatan|safe
+com.meizu.cloud|Flyme Cloud|advanced
+com.meizu.account|Akun Flyme|advanced
+com.meizu.mstore|App Store Meizu|recommended
+com.meizu.browser|Browser Meizu|recommended
+com.meizu.flyme.find|Find Phone|advanced
+com.meizu.feedback|Masukan|safe
+com.facebook.katana|Facebook (bawaan)|recommended

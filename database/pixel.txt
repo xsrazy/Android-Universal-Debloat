@@ -1,0 +1,23 @@
+# ============================================================
+# DATABASE GOOGLE PIXEL (stock Android - bloat minim)
+# Format: package|nama aplikasi|risk
+# ============================================================
+
+com.google.android.apps.turbo|Device Health Services|advanced
+com.google.android.apps.tachyon|Google Meet (Duo)|recommended
+com.google.android.apps.nbu.files|Files by Google|safe
+com.google.android.apps.wellbeing|Digital Wellbeing|safe
+com.google.android.apps.subscriptions.red|Google One|safe
+com.google.android.apps.youtube.music|YouTube Music|recommended
+com.google.android.youtube|YouTube|advanced
+com.google.android.videos|Google TV|safe
+com.google.android.apps.magazines|Google News|safe
+com.google.android.apps.podcasts|Google Podcasts|safe
+com.google.android.apps.googleassistant|Google Assistant|advanced
+com.google.android.apps.recorder|Perekam (Recorder)|safe
+com.google.android.apps.safetyhub|Safety / Keselamatan|safe
+com.google.android.apps.pixelmigrate|Migrasi Data Pixel|safe
+com.google.android.as|Pixel Device Personalization|advanced
+com.google.android.apps.wallpaper|Wallpaper Pixel|safe
+com.google.android.apps.maps|Google Maps|advanced
+com.google.android.gm|Gmail|advanced

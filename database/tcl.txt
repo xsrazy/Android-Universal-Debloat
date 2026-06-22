@@ -1,0 +1,21 @@
+# ============================================================
+# DATABASE TCL / ALCATEL
+# Format: package|nama aplikasi|risk
+# ============================================================
+
+com.tct.weather|Cuaca TCL|safe
+com.tcl.weather|Cuaca (alternatif)|safe
+com.tct.gallery3d|Galeri|advanced
+com.tcl.calculator|Kalkulator|safe
+com.tcl.soundrecorder|Perekam Suara|safe
+com.tcl.notepad|Catatan|safe
+com.tcl.compass|Kompas|safe
+com.tct.launchersetting|Pengaturan Launcher|safe
+com.tcl.usercenter|User Center|safe
+com.tcl.appmarket|TCL App Market|recommended
+com.tct.gamecenter|Game Center|recommended
+com.tcl.smartmanager|Smart Manager|advanced
+com.facebook.katana|Facebook (bawaan)|recommended
+com.facebook.appmanager|Facebook App Manager|recommended
+com.facebook.services|Facebook Services|recommended
+com.netflix.mediaclient|Netflix (bawaan)|safe

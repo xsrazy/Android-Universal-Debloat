@@ -1,0 +1,47 @@
+name: "🐞 Laporan Bug"
+description: "Laporkan masalah pada aud.sh atau database AUD"
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: "Terima kasih sudah melapor! Isi sedetail mungkin ya."
+  - type: input
+    id: device
+    attributes:
+      label: Merek & Model HP
+      placeholder: "mis. Xiaomi Redmi Note 12"
+    validations:
+      required: true
+  - type: input
+    id: android
+    attributes:
+      label: Versi Android / ROM
+      placeholder: "mis. Android 13 / MIUI 14"
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Apa yang terjadi?
+      description: Jelaskan masalahnya & langkah untuk mereproduksi.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Yang diharapkan
+  - type: textarea
+    id: logs
+    attributes:
+      label: Isi logs/actions.log (jika ada)
+      render: shell
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Konfirmasi
+      options:
+        - label: "Shizuku aktif dan `rish -c \"echo OK\"` berhasil"
+          required: true
+        - label: "Saya tidak memakai root"
+          required: true
