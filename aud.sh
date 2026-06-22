@@ -959,7 +959,7 @@ menu_utama() {
     echo "  11) Mode Simulasi (on/off)"
     echo "   0) Keluar"
     echo
-    echo -ne "${C_KUNING}Pilih (nomor menu): ${C_RESET}"
+    echo -ne "${C_KUNING}Pilih (0-11): ${C_RESET}"
     read -r pil
     case "$pil" in
       1) menu_scan_hp ;;
