@@ -113,9 +113,11 @@ judul() {
   echo "     ██╔══██║██║   ██║██║  ██║"
   echo "     ██║  ██║╚██████╔╝██████╔╝"
   echo "     ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ "
-  echo -e "${C_RESET}${C_HIJAU}     ANDROID UNIVERSAL DEBLOAT${C_RESET}"
-  echo -e "${C_ABU}   Debloat HP tanpa root, gampang${C_RESET}"
-  echo -e "${C_ABU}   www.myrul.dev | fb: myruldev${C_RESET}"
+  echo -e "${C_RESET}${C_HIJAU}     Android Universal Debloat${C_RESET}"
+  echo -e "${C_ABU}   Bersihkan bloatware Android tanpa root${C_RESET}"
+  echo -e "${C_ABU}   ------------------------------------${C_RESET}"
+  echo -e "${C_ABU}   Website : ${C_BIRU}www.myrul.dev${C_RESET}"
+  echo -e "${C_ABU}   Facebook: ${C_BIRU}https://web.facebook.com/myruldev${C_RESET}"
   echo -e "${C_ABU}------------------------------${C_RESET}"
   echo
 }
