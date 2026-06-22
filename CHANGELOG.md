@@ -4,6 +4,15 @@ Semua perubahan penting pada proyek ini dicatat di berkas ini.
 Format mengikuti [Keep a Changelog](https://keepachangelog.com/id/1.0.0/)
 dan proyek ini memakai [Semantic Versioning](https://semver.org/lang/id/).
 
+## [1.2.0] - 2026-06-22
+### Diubah
+- Ganti nama script utama `rescue.sh` menjadi `aud.sh`.
+- Tampilan dibuat lebih simpel ala MDR: garis pemisah dipendekkan.
+- Kata-kata menu dibuat lebih santai; prompt jadi "Pilih (nomor menu):".
+### Ditambahkan
+- Animasi ketik (`ketik`) & animasi loading spinner (`loading`).
+- Splash animasi saat aplikasi dijalankan.
+
 ## [1.1.0] - 2026-06-22
 ### Ditambahkan
 - Banner ASCII "AUD" + identitas (website & Facebook) di setiap layar menu.
