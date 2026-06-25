@@ -172,7 +172,7 @@ judul() {
   echo -e "  │    ${C_ABU}Bersihkan bloatware Android tanpa root${C_BIRU}    │"
   echo -e "  │     ${C_ABU}------------------------------------${C_BIRU}     │"
   echo -e "  │  ${C_ABU}Website : ${C_BIRU}www.myrul.dev${C_BIRU}                     │"
-  echo -e "  │  ${C_ABU}Facebook: ${C_BIRU}https://web.facebook.com/myruldev${C_BIRU} │"
+  echo -e "  │  ${C_ABU}Facebook: ${C_BIRU}https://facebook.com/myruldev${C_BIRU}     │"
   echo "  └──────────────────────────────────────────────┘"
   echo -e "${C_RESET}"
 }
